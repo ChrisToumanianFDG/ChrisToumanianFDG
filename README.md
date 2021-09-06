@@ -33,6 +33,8 @@ Hi there, I'm Chris
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C++&logoColor=339933)
 ![C#](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=CSharp&logoColor=339933)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=339933)
+![GLFW](https://img.shields.io/badge/-GLFW-000000?style=flat&logo=GLFW&logoColor=339933)
 
 ###### Database
 
