@@ -38,6 +38,8 @@ Hi there, I'm Chris
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL&logoColor=76D04B)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL&logoColor=76D04B)
+![Redshift](https://img.shields.io/badge/-Redshift-000000?style=flat&logo=Redshift&logoColor=76D04B)
 
 ###### Package managers
 
